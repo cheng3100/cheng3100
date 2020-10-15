@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ### Hi there 👋, I'm [longcheng](https://cheng3100.github.io)!
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=cheng3100&show_icons=true) 
